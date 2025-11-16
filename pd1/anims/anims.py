@@ -79,7 +79,7 @@ def ptree_mod(turtle: RawTurtle, depth):
     turtle.left(90)
     edge = 500/3
     turtle.penup()
-    turtle.setpos(edge/2, 0)
+    turtle.setpos(edge/2, -edge/2)
     turtle.pendown()
     __ptree_mod(turtle, depth*3, edge/2, 30)
     turtle.teleport(0, 0)

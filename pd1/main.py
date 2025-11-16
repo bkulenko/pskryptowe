@@ -13,8 +13,8 @@ animation_mapping = {
     "Binary tree": anims.btree,
     "Pythagoras tree": anims.ptree_base,
     "Modified Pythagoras tree": anims.ptree_mod,
-    "Modified Pythagoras tree - no trunk": anims.ptree_notrunk,
-    "Modified Pythagoras tree - no trunk, random tilt": anims.ptree_tilt
+    "Pythagoras tree - no trunk highlight": anims.ptree_notrunk,
+    "Pythagoras tree - random tilt": anims.ptree_tilt
 }
 
 
